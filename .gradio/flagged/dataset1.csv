@@ -1,0 +1,12 @@
+image,Patient Notes,output,timestamp
+.gradio\flagged\image\8dfe57f089f8d6089f88\chest-xray.webp,Patient is a 68-year-old male with a history of Coronary Artery Bypass Grafting (CABG) surgery 4 years ago. Presents with increasing shortness of breath on exertion and a persistent dry cough for the last month. Rule out pneumonia or heart failure.,,2025-08-13 22:34:14.296736
+.gradio\flagged\image\c903aacc5d1135832b51\chest-xray.webp,Patient is a 68-year-old male with a history of Coronary Artery Bypass Grafting (CABG) surgery 4 years ago. Presents with increasing shortness of breath on exertion and a persistent dry cough for the last month. Rule out pneumonia or heart failure.,"AN ERROR OCCURRED:
+
+Error Type: Backend Server Error
+
+Details: The backend crashed while trying to process the diagnosis. The server's response was: 
+
+Internal Server Error
+
+--- LIKELY CAUSE AND HOW TO FIX ---
+This is the root cause. Please look at the terminal window where you ran the 'uvicorn' command. It will contain a more detailed (red) error message. That error is what needs to be fixed.",2025-08-13 23:06:34.573734

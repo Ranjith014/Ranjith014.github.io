@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+gradio
+requests
+transformers
+torch
+Pillow
+python-multipart

@@ -1,0 +1,5 @@
+med predict codes
+In 1st terminal)
+ python -m uvicorn main:app
+In 2nd terminal)
+ python app.py
